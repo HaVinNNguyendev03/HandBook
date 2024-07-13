@@ -1,0 +1,22 @@
+.from-login{
+    background: yellow;
+    color: red;
+    border: 1px solid #dfdfdf;
+    border-radius: 10px;
+    padding: 40px;
+}
+.from-login_email,.from-login_password,.from-login_check,.from-login_submit{
+    padding: 10px 0px;
+}
+.from-login_email{
+   
+}
+.from-login_password{
+
+}
+.from-login_check{
+
+}
+.from-login_submit{
+    
+}
