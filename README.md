@@ -1,5 +1,5 @@
 # HandBook
 Website cung cấp thông tin về nghiệp vụ,tin học,tài chính của VNPost
 # dependencies
-+Boostrap,React Boostrap
++Boostrap,Codeigniter4,php > 7.4
 
